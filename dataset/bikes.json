@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BIKE-001",
+    "name": "Canyon Neuron 5",
+    "description": "Full-suspension trail bike designed for comfort and agility, ideal for long rides with technical terrain.",
+    "price": 1899.0,
+    "isAvailable": true,
+    "releaseDate": "2023-05-01",
+    "imageUrl": "https://example.com/images/bikes/canyon-neuron5.jpg",
+    "category": "MTB",
+    "tags": ["Trail", "Full Suspension", "29-inch"],
+    "bikeId": "TYPE-001"
+  },
+  {
+    "id": "BIKE-002",
+    "name": "Cube Stereo One22 Pro",
+    "description": "Versatile mountain bike for all-round trail riding, combining efficient climbing with downhill control.",
+    "price": 2099.0,
+    "isAvailable": true,
+    "releaseDate": "2023-07-15",
+    "imageUrl": "https://example.com/images/bikes/cube-stereo-one22.jpg",
+    "category": "MTB",
+    "tags": ["Trail", "Suspension", "Aluminium"],
+    "bikeId": "TYPE-001"
+  },
+  {
+    "id": "BIKE-003",
+    "name": "Trek Fuel EX 8",
+    "description": "High-performance full-suspension MTB that balances lightweight frame design with durability for aggressive trail riders.",
+    "price": 2999.0,
+    "isAvailable": false,
+    "releaseDate": "2022-09-10",
+    "imageUrl": "https://example.com/images/bikes/trek-fuel-ex8.jpg",
+    "category": "MTB",
+    "tags": ["Carbon Frame", "Suspension", "Trail"],
+    "bikeId": "TYPE-001"
+  },
+  {
+    "id": "BIKE-004",
+    "name": "Specialized Stumpjumper",
+    "description": "Iconic trail MTB, known for precise handling and efficiency both uphill and downhill.",
+    "price": 3499.0,
+    "isAvailable": true,
+    "releaseDate": "2024-01-20",
+    "imageUrl": "https://example.com/images/bikes/specialized-stumpjumper.jpg",
+    "category": "MTB",
+    "tags": ["Full Suspension", "Lightweight", "Advanced"],
+    "bikeId": "TYPE-001"
+  },
+  {
+    "id": "BIKE-005",
+    "name": "Canyon Aeroad CF SL 7",
+    "description": "Aerodynamic carbon road bike designed for speed, perfect for racing and endurance rides.",
+    "price": 3299.0,
+    "isAvailable": true,
+    "releaseDate": "2023-03-12",
+    "imageUrl": "https://example.com/images/bikes/canyon-aeroad.jpg",
+    "category": "Road",
+    "tags": ["Carbon Frame", "Lightweight", "Aero"],
+    "bikeId": "TYPE-002"
+  },
+  {
+    "id": "BIKE-006",
+    "name": "Giant TCR Advanced 2",
+    "description": "Performance-oriented road bike, balancing stiffness and comfort for long distance rides.",
+    "price": 2599.0,
+    "isAvailable": true,
+    "releaseDate": "2022-08-05",
+    "imageUrl": "https://example.com/images/bikes/giant-tcr.jpg",
+    "category": "Road",
+    "tags": ["Lightweight", "Endurance", "Aluminium"],
+    "bikeId": "TYPE-002"
+  },
+  {
+    "id": "BIKE-007",
+    "name": "Scott Addict Gravel 30",
+    "description": "Durable gravel bike designed for mixed terrain, from paved roads to dirt trails.",
+    "price": 2499.0,
+    "isAvailable": false,
+    "releaseDate": "2021-11-01",
+    "imageUrl": "https://example.com/images/bikes/scott-gravel.jpg",
+    "category": "Gravel",
+    "tags": ["Mixed Terrain", "Adventure", "Disc Brakes"],
+    "bikeId": "TYPE-003"
+  },
+  {
+    "id": "BIKE-008",
+    "name": "Canyon Grail 7",
+    "description": "All-road gravel bike with unique handlebar design, providing stability and comfort on long adventures.",
+    "price": 2299.0,
+    "isAvailable": true,
+    "releaseDate": "2022-04-19",
+    "imageUrl": "https://example.com/images/bikes/canyon-grail.jpg",
+    "category": "Gravel",
+    "tags": ["Endurance", "Adventure", "Gravel"],
+    "bikeId": "TYPE-003"
+  },
+  {
+    "id": "BIKE-009",
+    "name": "Radon ZR Team Hybrid",
+    "description": "Powerful electric MTB for trail riders who need extra boost on climbs and long-distance rides.",
+    "price": 3799.0,
+    "isAvailable": true,
+    "releaseDate": "2024-06-01",
+    "imageUrl": "https://example.com/images/bikes/radon-hybrid.jpg",
+    "category": "E-MTB",
+    "tags": ["Electric", "MTB", "Battery"],
+    "bikeId": "TYPE-004"
+  },
+  {
+    "id": "BIKE-010",
+    "name": "Specialized Turbo Vado SL",
+    "description": "Lightweight electric city bike for commuting and fitness, with integrated motor support.",
+    "price": 2999.0,
+    "isAvailable": true,
+    "releaseDate": "2023-09-10",
+    "imageUrl": "https://example.com/images/bikes/specialized-vado.jpg",
+    "category": "E-City",
+    "tags": ["Electric", "City", "Lightweight"],
+    "bikeId": "TYPE-005"
+  }
+]

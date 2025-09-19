@@ -1,0 +1,47 @@
+[
+  {
+    "id": "TYPE-001",
+    "category": "Trail MTB",
+    "isProtective": false,
+    "originCountry": "Mixed (Germany, USA)",
+    "logoUrl": "https://example.com/images/types/trail-mtb.jpg",
+    "warrantyYears": 5,
+    "description": "Full-suspension mountain bikes designed for trail and all-mountain riding."
+  },
+  {
+    "id": "TYPE-002",
+    "category": "Road Bike",
+    "isProtective": false,
+    "originCountry": "Mixed (Germany, Taiwan)",
+    "logoUrl": "https://example.com/images/types/road-bike.jpg",
+    "warrantyYears": 4,
+    "description": "Lightweight, aerodynamic bikes designed for speed on paved roads."
+  },
+  {
+    "id": "TYPE-003",
+    "category": "Gravel Bike",
+    "isProtective": false,
+    "originCountry": "Mixed (Germany, Switzerland)",
+    "logoUrl": "https://example.com/images/types/gravel-bike.jpg",
+    "warrantyYears": 3,
+    "description": "Versatile bikes built for both paved roads and off-road terrain."
+  },
+  {
+    "id": "TYPE-004",
+    "category": "E-Mountain Bike",
+    "isProtective": false,
+    "originCountry": "Germany",
+    "logoUrl": "https://example.com/images/types/e-mtb.jpg",
+    "warrantyYears": 3,
+    "description": "Electric-assist mountain bikes for challenging climbs and longer rides."
+  },
+  {
+    "id": "TYPE-005",
+    "category": "E-City Bike",
+    "isProtective": false,
+    "originCountry": "USA",
+    "logoUrl": "https://example.com/images/types/e-city.jpg",
+    "warrantyYears": 2,
+    "description": "Electric city bikes for commuting and urban fitness riding."
+  }
+]
