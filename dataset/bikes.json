@@ -6,7 +6,7 @@
     "price": 1899.0,
     "isAvailable": true,
     "releaseDate": "2023-05-01",
-    "imageUrl": "https://example.com/images/bikes/canyon-neuron5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Canyon_Neuron_5.jpg",
     "category": "MTB",
     "tags": ["Trail", "Full Suspension", "29-inch"],
     "bikeId": "TYPE-001"
@@ -18,7 +18,7 @@
     "price": 2099.0,
     "isAvailable": true,
     "releaseDate": "2023-07-15",
-    "imageUrl": "https://example.com/images/bikes/cube-stereo-one22.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Cube_Stereo_One22_Pro.webp",
     "category": "MTB",
     "tags": ["Trail", "Suspension", "Aluminium"],
     "bikeId": "TYPE-001"
@@ -30,7 +30,7 @@
     "price": 2999.0,
     "isAvailable": false,
     "releaseDate": "2022-09-10",
-    "imageUrl": "https://example.com/images/bikes/trek-fuel-ex8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Trek_Fuel_EX_8.jpg",
     "category": "MTB",
     "tags": ["Carbon Frame", "Suspension", "Trail"],
     "bikeId": "TYPE-001"
@@ -42,7 +42,7 @@
     "price": 3499.0,
     "isAvailable": true,
     "releaseDate": "2024-01-20",
-    "imageUrl": "https://example.com/images/bikes/specialized-stumpjumper.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Specialized_Stumpjumper.webp",
     "category": "MTB",
     "tags": ["Full Suspension", "Lightweight", "Advanced"],
     "bikeId": "TYPE-001"
@@ -54,7 +54,7 @@
     "price": 3299.0,
     "isAvailable": true,
     "releaseDate": "2023-03-12",
-    "imageUrl": "https://example.com/images/bikes/canyon-aeroad.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Canyon_Aeroad_CF_SL_7.jpg",
     "category": "Road",
     "tags": ["Carbon Frame", "Lightweight", "Aero"],
     "bikeId": "TYPE-002"
@@ -66,7 +66,7 @@
     "price": 2599.0,
     "isAvailable": true,
     "releaseDate": "2022-08-05",
-    "imageUrl": "https://example.com/images/bikes/giant-tcr.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Giant_TCR_Advanced_2.webp",
     "category": "Road",
     "tags": ["Lightweight", "Endurance", "Aluminium"],
     "bikeId": "TYPE-002"
@@ -78,7 +78,7 @@
     "price": 2499.0,
     "isAvailable": false,
     "releaseDate": "2021-11-01",
-    "imageUrl": "https://example.com/images/bikes/scott-gravel.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Scott_Addict_Gravel_30.jpeg",
     "category": "Gravel",
     "tags": ["Mixed Terrain", "Adventure", "Disc Brakes"],
     "bikeId": "TYPE-003"
@@ -90,7 +90,7 @@
     "price": 2299.0,
     "isAvailable": true,
     "releaseDate": "2022-04-19",
-    "imageUrl": "https://example.com/images/bikes/canyon-grail.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Canyon_Grail_7.jpg",
     "category": "Gravel",
     "tags": ["Endurance", "Adventure", "Gravel"],
     "bikeId": "TYPE-003"
@@ -102,7 +102,7 @@
     "price": 3799.0,
     "isAvailable": true,
     "releaseDate": "2024-06-01",
-    "imageUrl": "https://example.com/images/bikes/radon-hybrid.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Radon_ZR_Team_Hybrid.jpg",
     "category": "E-MTB",
     "tags": ["Electric", "MTB", "Battery"],
     "bikeId": "TYPE-004"
@@ -110,7 +110,7 @@
   {
     "id": "BIKE-010",
     "name": "Specialized Turbo Vado SL",
-    "description": "Lightweight electric city bike for commuting and fitness, with integrated motor support.",
+    "description": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Specialized_Turbo_Vado_SL.webp",
     "price": 2999.0,
     "isAvailable": true,
     "releaseDate": "2023-09-10",
@@ -120,3 +120,4 @@
     "bikeId": "TYPE-005"
   }
 ]
+
