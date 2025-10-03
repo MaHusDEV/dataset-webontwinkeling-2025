@@ -110,11 +110,11 @@
   {
     "id": "BIKE-010",
     "name": "Specialized Turbo Vado SL",
-    "description": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Specialized_Turbo_Vado_SL.webp",
+    "description": "Powerful electric city bike",
     "price": 2999.0,
     "isAvailable": true,
     "releaseDate": "2023-09-10",
-    "imageUrl": "https://example.com/images/bikes/specialized-vado.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Specialized_Turbo_Vado_SL.webp",
     "category": "E-City",
     "tags": ["Electric", "City", "Lightweight"],
     "bikeId": "TYPE-005"
