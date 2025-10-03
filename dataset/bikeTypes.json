@@ -13,7 +13,7 @@
     "category": "Road Bike",
     "isProtective": false,
     "originCountry": "Mixed (Germany, Taiwan)",
-    "logoUrl": "https://example.com/images/types/road-bike.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Road-Logo.png",
     "warrantyYears": 4,
     "description": "Lightweight, aerodynamic bikes designed for speed on paved roads."
   },
@@ -22,7 +22,7 @@
     "category": "Gravel Bike",
     "isProtective": false,
     "originCountry": "Mixed (Germany, Switzerland)",
-    "logoUrl": "https://example.com/images/types/gravel-bike.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Gravel-Logo.webp",
     "warrantyYears": 3,
     "description": "Versatile bikes built for both paved roads and off-road terrain."
   },
@@ -31,7 +31,7 @@
     "category": "E-Mountain Bike",
     "isProtective": false,
     "originCountry": "Germany",
-    "logoUrl": "https://example.com/images/types/e-mtb.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/E-Bike-Logo.jpg",
     "warrantyYears": 3,
     "description": "Electric-assist mountain bikes for challenging climbs and longer rides."
   },
@@ -40,7 +40,7 @@
     "category": "E-City Bike",
     "isProtective": false,
     "originCountry": "USA",
-    "logoUrl": "https://example.com/images/types/e-city.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/E-CityBike-Logo.jpg",
     "warrantyYears": 2,
     "description": "Electric city bikes for commuting and urban fitness riding."
   }
