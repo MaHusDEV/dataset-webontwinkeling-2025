@@ -17,23 +17,23 @@
     "warrantyYears": 4,
     "description": "Lightweight, aerodynamic bikes designed for speed on paved roads."
   },
-  {
+    {
     "id": "TYPE-003",
-    "category": "Gravel Bike",
-    "isProtective": false,
-    "originCountry": "Mixed (Germany, Switzerland)",
-    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Gravel-Logo.webp",
-    "warrantyYears": 3,
-    "description": "Versatile bikes built for both paved roads and off-road terrain."
-  },
-  {
-    "id": "TYPE-004",
     "category": "E-Mountain Bike",
     "isProtective": false,
     "originCountry": "Germany",
     "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/E-Bike-Logo.jpg",
     "warrantyYears": 3,
     "description": "Electric-assist mountain bikes for challenging climbs and longer rides."
+  },
+  {
+    "id": "TYPE-004",
+    "category": "Gravel Bike",
+    "isProtective": false,
+    "originCountry": "Mixed (Germany, Switzerland)",
+    "logoUrl": "https://raw.githubusercontent.com/MaHusDEV/dataset-webontwinkeling-2025/refs/heads/main/dataset/images/Gravel-Logo.webp",
+    "warrantyYears": 3,
+    "description": "Versatile bikes built for both paved roads and off-road terrain."
   },
   {
     "id": "TYPE-005",
@@ -45,3 +45,4 @@
     "description": "Electric city bikes for commuting and urban fitness riding."
   }
 ]
+
